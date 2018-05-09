@@ -1,0 +1,41 @@
+<html>
+    <head>
+        <meta charset="utf-8">
+        <link rel="stylesheet" href="css/bootstrap.css">
+        
+        <!-- Optional theme -->
+        <link rel="stylesheet" href="css/bootstrap-theme.min.css">
+
+        <!-- Latest compiled and minified JavaScript -->
+        <script
+			  src="https://code.jquery.com/jquery-3.3.1.js"
+			  integrity="sha256-2Kok7MbOyxpgUVvAk/HJ2jigOSYS2auK4Pfzbm7uH60="
+			  crossorigin="anonymous"></script>
+        <!------ Include the above in your HEAD tag ---------->
+
+        <script src="js/bootstrap.min.js"></script>
+
+        <!--Pulling Awesome Font -->
+        <link href="css/fontawesome.css" rel="stylesheet">
+
+        <script src="js/login.js" type="text/JavaScript"></script>
+        <link href="css/login.css" rel="stylesheet">
+    </head>
+    <body>
+        <div class="jumbotron">
+            <div class="container">
+              <h2>Login</h2>
+              <div class="box">
+                <form>
+                    <span  id="error-label" class="user-error label label-danger">Username not valid</span>
+                    <input name="loginUsername" type="text" placeholder="username" onblur="validateUser(this)">
+                    <input name="loginPassword" type="password" placeholder="password">
+                    <input type="submit" class="btn btn-primary" value="Login">
+                </form>
+              </div>
+            </div>
+          </div>
+    </body>
+</html><!-- Latest compiled and minified CSS -->
+
+
