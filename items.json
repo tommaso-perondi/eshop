@@ -1,9 +1,9 @@
 {
   "items": [
     {
-      "name": {},
-      "price": {},
-      "id": {}
+      "name": "pollo",
+      "price": "18",
+      "id": "01"
     },
     {
       "name": {},
