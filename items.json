@@ -1,24 +1,24 @@
 {
   "items": [
     {
+      "name": "prova",
+      "price": "1.80",
+      "id": "1"
+    },
+    {
+      "name": "yeyva",
+      "price": "2.80",
+      "id": "2"
+    },
+    {
+      "name": "vite",
+      "price": "3.80",
+      "id": "3"
+    },
+    {
       "name": "pollo",
-      "price": "18",
-      "id": "01"
-    },
-    {
-      "name": {},
-      "price": {},
-      "id": {}
-    },
-    {
-      "name": {},
-      "price": {},
-      "id": {}
-    },
-    {
-      "name": {},
-      "price": {},
-      "id": {}
+      "price": "4.80",
+      "id": "4"
     }
   ]
 }
