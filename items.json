@@ -3,25 +3,25 @@
     {
       "name": "prova",
       "price": "1.80",
-      "id": "1"
+      "id": "1",
       "image" : "http://via.placeholder.com/250x250"
     },
     {
       "name": "yeyva",
       "price": "2.80",
-      "id": "2"
+      "id": "2",
       "image" : "http://via.placeholder.com/250x250"      
     },
     {
       "name": "vite",
       "price": "3.80",
-      "id": "3"
+      "id": "3",
       "image" : "http://via.placeholder.com/250x250"
     },
     {
       "name": "pollo",
       "price": "4.80",
-      "id": "4"
+      "id": "4",
       "image" : "http://via.placeholder.com/250x250"
     }
   ]
